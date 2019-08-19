@@ -44,7 +44,7 @@ function showValues(values) {
   for (let key in values) {
     // console.log(values.one + values.two + values.three + values.four + values.five)
     return values.one + values.two + values.three + values.four + values.five
-    // return (values.one + ' ')
+    // Try using template strings
   }
 }
 ////////// PROBLEM 2 //////////
